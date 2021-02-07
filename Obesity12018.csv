@@ -1,0 +1,52 @@
+YearStart,YearEnd,LocationAbbr,LocationDesc,Data_Value,Data_Value_Alt,Sample_Size,Gender,LocationID
+2018,2018,AK,Alaska,28.5,28.5,1256,Female,2
+2018,2018,AL,Alabama,37.8,37.8,3517,Female,1
+2018,2018,AR,Arkansas,39.4,39.4,3052,Female,5
+2018,2018,AZ,Arizona,31,31,3516,Male,4
+2018,2018,CA,California,26,26,5733,Male,6
+2018,2018,CO,Colorado,24.2,24.2,4114,Female,8
+2018,2018,CT,Connecticut,26.4,26.4,5204,Female,9
+2018,2018,DC,District of Columbia,28,28,2193,Female,11
+2018,2018,DE,Delaware,33.5,33.5,2510,Female,10
+2018,2018,FL,Florida,30.2,30.2,7407,Female,12
+2018,2018,GA,Georgia,31.6,31.6,3736,Male,13
+2018,2018,HI,Hawaii,23,23,3786,Female,15
+2018,2018,IA,Iowa,34.6,34.6,4229,Female,19
+2018,2018,ID,Idaho,27.1,27.1,1657,Female,16
+2018,2018,IL,Illinois,33.2,33.2,2521,Female,17
+2018,2018,IN,Indiana,34.2,34.2,3814,Female,18
+2018,2018,KS,Kansas,35.6,35.6,5129,Female,20
+2018,2018,KY,Kentucky,36.8,36.8,4475,Female,21
+2018,2018,LA,Louisiana,39.5,39.5,2569,Female,22
+2018,2018,MA,Massachusetts,24.3,24.3,3154,Female,25
+2018,2018,MD,Maryland,33.1,33.1,8871,Female,24
+2018,2018,ME,Maine,29.2,29.2,5721,Female,23
+2018,2018,MI,Michigan,34.6,34.6,4919,Female,26
+2018,2018,MN,Minnesota,27.5,27.5,7673,Female,27
+2018,2018,MO,Missouri,34.4,34.4,2591,Male,29
+2018,2018,MS,Mississippi,42.6,42.6,3201,Female,28
+2018,2018,MT,Montana,25.8,25.8,2467,Female,30
+2018,2018,NC,North Carolina,33.9,33.9,2216,Female,37
+2018,2018,ND,North Dakota,34.2,34.2,2608,Female,38
+2018,2018,NE,Nebraska,33.8,33.8,7331,Female,31
+2018,2018,NH,New Hampshire,28.1,28.1,2764,Female,33
+2018,2018,NJ,New Jersey,25.5,25.5,1383,Female,34
+2018,2018,NM,New Mexico,33.5,33.5,3293,Female,35
+2018,2018,NV,Nevada,29.2,29.2,1538,Female,32
+2018,2018,NY,New York,27.3,27.3,16247,Female,36
+2018,2018,OH,Ohio,33.8,33.8,5233,Male,39
+2018,2018,OK,Oklahoma,32.8,32.8,2097,Male,40
+2018,2018,OR,Oregon,30.8,30.8,2839,Female,41
+2018,2018,PA,Pennsylvania,30.9,30.9,2881,Male,42
+2018,2018,RI,Rhode Island,28.4,28.4,2366,Male,44
+2018,2018,SC,South Carolina,32.3,32.3,4173,Male,45
+2018,2018,SD,South Dakota,28.7,28.7,3500,Female,46
+2018,2018,TN,Tennessee,35.3,35.3,2522,Female,47
+2018,2018,TX,Texas,36.2,36.2,5451,Female,48
+2018,2018,UT,Utah,28.7,28.7,5015,Male,49
+2018,2018,VA,Virginia,30.4,30.4,4412,Male,51
+2018,2018,VT,Vermont,27.7,27.7,2820,Male,50
+2018,2018,WA,Washington,29.4,29.4,5710,Male,53
+2018,2018,WI,Wisconsin,31,31,2241,Male,55
+2018,2018,WV,West Virginia,40.6,40.6,2077,Male,54
+2018,2018,WY,Wyoming,27.8,27.8,2252,Female,56
